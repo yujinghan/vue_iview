@@ -1,5 +1,5 @@
 <template>
- <h3>{{money_us}}--------------------------b组件</h3>
+ <h3>{{money_us}}----------------------b组件</h3>
 </template>
  
 <script type="text/babel">
